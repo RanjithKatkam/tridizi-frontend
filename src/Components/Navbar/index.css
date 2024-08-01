@@ -1,0 +1,25 @@
+.header {
+    height: 10%;
+    background: linear-gradient(115deg, #222222, #000000);
+    padding: 0% 10%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #333232;
+}
+
+.navbar-title {
+    font-family: "Cinzel" !important;
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 1%;
+}
+
+.logo {
+    height: 40px;
+    margin-right: 1%;
+}
+
+.profile {
+    height: 40px;
+    margin-left: auto;
+}
